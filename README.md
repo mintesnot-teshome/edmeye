@@ -1,6 +1,4 @@
-Here’s a polished **GitHub README** for **edmeye**, tailored to your tech stack (HTML, Tailwind CSS, React JS, and Laravel):
 
----
 
 # edmeye 🇪🇹  
 **Ethiopian Calendar (Geez) Age Calculator**  
