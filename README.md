@@ -31,23 +31,7 @@ Ethiopia follows its own calendar system, which is distinct from the Gregorian c
   - Vite (for frontend build and optimization)  
   - Axios (for API communication)  
 
----
 
-## 📂 Project Structure  
-```
-edmeye/  
-├── frontend/               # React JS application  
-│   ├── public/             # Static assets  
-│   ├── src/                # React components and logic  
-│   └── tailwind.config.js  # Tailwind CSS configuration  
-├── backend/                # Laravel application  
-│   ├── app/                # Application logic  
-│   ├── routes/             # API routes  
-│   └── ...                 # Other Laravel files  
-└── README.md               # Project documentation  
-```
-
----
 
 ## 🛠️ Installation  
 To run edmeye locally, follow these steps:  
