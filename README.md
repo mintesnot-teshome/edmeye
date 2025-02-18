@@ -1,6 +1,6 @@
 
 
-# edmeye 🇪🇹
+# Edmeye 🇪🇹
 **Ethiopian Calendar (Geez) Age Calculator**  
 
 edmeye is a free, open-source web application that calculates your age in the Ethiopian calendar system (Geez). It provides precise age calculations in years, months, weeks, days, hours, minutes, and seconds, all based on the unique 13-month Ethiopian calendar. Built with modern web technologies, edmeye is fast, responsive, and easy to use.  
