@@ -1,0 +1,5 @@
+{
+    "require": {
+        "andegna/calender": "^2.4"
+    }
+}
