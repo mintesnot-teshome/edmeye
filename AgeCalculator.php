@@ -41,3 +41,4 @@ echo "or $totalDays days\n"; // Total days
 echo "or $totalHours hours\n"; // Total hours
 echo "or $totalMinutes minutes\n"; // Total minutes
 echo "or $totalSeconds seconds\n"; // Total seconds
+
